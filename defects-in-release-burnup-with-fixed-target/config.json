@@ -1,0 +1,6 @@
+{
+    "name": "TS Fixed Target Release Burnup",
+    "sdk": "2.1",
+    "className": "TSFixedTargetReleaseBurnup",
+    "story": "US428"
+}
